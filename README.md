@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E44AD&height=200&section=header&text=Hi%20There!%20I'm%20Vaishnavi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student%20%7C%20Data%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Marepally Vaishnavi Goud
+
+### B.Tech CSE Student | Data & Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Turning+healthcare+data+into+insights+%F0%9F%A9%BA;Building+full-stack+apps+end-to-end+%F0%9F%92%BB;Deep+in+Java+DSA+%2B+SQL+right+now+%F0%9F%93%9A;Always+curious%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 
@@ -42,9 +44,20 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,mongodb,flask,git,github,vscode,postman&theme=light" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<br/><br/>
+<br/>
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -52,6 +65,13 @@
 <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -111,25 +131,9 @@ Sports team collaboration platform for finding teammates and joining events by i
 <img src="https://github-readme-stats.vercel.app/api?username=marepallyvaishnavigoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marepallyvaishnavigoud&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marepallyvaishnavigoud&theme=tokyo-night&hide_border=true" width="95%" />
-
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=marepallyvaishnavigoud&theme=tokyonight&no-frame=true&row=1&column=6" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/marepallyvaishnavigoud/marepallyvaishnavigoud/output/github-contribution-grid-snake.svg" width="95%" />
-
-> ⚠️ The snake animation above needs a one-time GitHub Action setup (instructions below) — it won't render until then.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marepallyvaishnavigoud&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
@@ -145,9 +149,5 @@ Sports team collaboration platform for finding teammates and joining events by i
 <a href="mailto:marepallyvaishnavigoud@gmail.com">
   <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:2E9EF7&height=100&section=footer" width="100%"/>
 
 </div>
